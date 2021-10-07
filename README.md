@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# TypeORM + Database Bulk Insert+ CSV Writer
 
 Steps to run this project:
 
